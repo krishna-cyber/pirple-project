@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project1</title>
+</head>
+<body>
+    <header>
+        <nav>
+           
+            <ul><li>Home</li>
+            <li>Contact us</li>
+            <li>About us</li>
+            <li>More receipe</li>
+            </ul>    
+            </style>
+            
+        </nav>
+    </header>
+    
+    <h1>Welcome to my page.</h1>
+    <em>Here we are going to make chicken curry</em>
+   <center>Here is a video tutorial that helps to make chicken curry</center>
+    <center>   <h3><a href="1.mp4">click here</a> to view video tutorial.</h3>   </center>
+    <strong>Following incredible are required to make chicken curry.</strong>
+    <br>
+    <ul>
+    
+        <li>1kg chicken, skineed and cut into pieces </li>
+        <li>1/4 cup vegetable oil</li>
+        <li>1 inch cinnamon stick</li>
+        <li>4 or 5 cloves</li>
+        <li>4-5 green cardamom pods</li>
+        <li>4 medium, red onion grated</li>
+        <li>1 tsp fresh ginger paste, garlic paste  </li>
+       <li>1/2 tsp ground coriander</li> 
+        <li>1/2 table salt</li>
+        <li>1 tsp garam masla</li>
+        <li>1 tsp red chilli powder</li>
+        <li>4 medium tomatoes, pureed</li>
+
+
+    
+    </ul>
+    <b>Instructions to make chicken curry</b>
+    <ol>
+        <li>trim the excess fat from the chicken and put these pieces in a large bownl</li>
+        <li>place a medium nonstick saucepan over medium heat and add oil. when small bubbles appear at the bnotom of the pan, add the cardamom. cloves and cinnamon and salute for 1 min. when the spoce change colour and are fragrant, add the onions and salute for 3-4 min until golden brown. add garlic paste and salute. add the turmeric coriander cumin chillil powder stri well.</li>
+        <li>add tomatoes and salute for 3-4 min</li>
+        
+        <li>transfer to a serving bowl, sprinkle with the gram masala and garnish with cilantro and serve.</li>
+
+
+    </ol>
+
+    <!-- share section-->
+
+    <em>Please share this post and make reachable to more friends</em>
+    <ul>
+        <li><a href="http://www.facebook.com">facebook</a> </li>
+        <li><a href="http://www.instagram.com">instagram</a></li>
+        <li> <a href="http://www.linkedin.com">linkedin</a></li>        
+       
+
+    </ul>
+    <strong>Please leave your comment</strong>
+    
+    <FORm>
+        <em>first name:</em><input type="text" name="" id=""><br>
+        <em>Second name:</em><input type="text" name="" id=""><br>
+        <em>Email:</em><input type="email" name="" id=""><br>
+        <em>Leave your comment</em><input type="text" name="" id=""><br>
+        <button type="submit">submit</button>
+    </FORm>
+</body>
+</html>
